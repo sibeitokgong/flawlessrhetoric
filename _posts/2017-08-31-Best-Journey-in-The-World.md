@@ -6,7 +6,7 @@ tag: Travel
 ---
 Over the previous new year period, I took a two and half week voyage two Antarctica. It was a life changing experience to say the least, one that I am very grateful for.
 
-[ushuaia](http://imgur.com/rS4Ylac.jpg)
+![ushuaia](http://imgur.com/rS4Ylac.jpg)
 My journey began in Ushuaia, at the most southern tip of Argentina, a city  often described as sitting at the end of the world.
 
 ![planciusport](http://imgur.com/PnGMJwX)
