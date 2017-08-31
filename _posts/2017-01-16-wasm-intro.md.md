@@ -7,3 +7,8 @@ tag: Travel
 ---
 
 Some stuff here.
+<br />
+<br />
+
+
+![image](http://i.imgur.com/120tJUE.jpg)
