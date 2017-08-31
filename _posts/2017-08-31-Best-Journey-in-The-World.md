@@ -71,7 +71,3 @@ I was very happy to see Les Eclaireurs Lighthouse when we were back in Ushuaia. 
 
 ![final](http://imgur.com/K4VK9tz.jpg)
 All in all, it was an amazing journey, and one that I will never forget.
-
-
-
-[lets see](https://github.com/Foxh0und/railwayroutefinder/blob/master/README.md)
