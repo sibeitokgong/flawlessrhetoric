@@ -48,7 +48,7 @@ Unfortunately, disaster struck, and I quickly disappeared. Safety ropes are a mu
 ![pullmeupscotty](http://imgur.com/hGrB3l4.jpg)
 As you can see, it wasn't overly comfortable down there.
 
-![outicome](http://imgur.com/hGrB3l4.jpg)
+![outicome](http://imgur.com/gxksIGK.jpg)
 I'm really quite thankful to those who pulled me out.
 
 ![penguins](http://imgur.com/agEuOM3.jpg)
