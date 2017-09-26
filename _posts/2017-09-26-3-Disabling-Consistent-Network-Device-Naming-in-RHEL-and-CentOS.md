@@ -87,6 +87,26 @@ Three lines need to be changed, name and device must change to "eth0", and the U
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### References
 [1] M. Domsch, "PATCH: Network Device Naming mechanism and policy [LWN.net]", 2009. [Online]. Available: https://lwn.net/Articles/356900/. [Accessed: 26- Sep- 2017]
 
