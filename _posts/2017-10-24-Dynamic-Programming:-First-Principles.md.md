@@ -8,7 +8,6 @@ tag: Algorithm
 ---
 ## Dynamic Programming
 
-
 ### Introduction
 Dynamic Programming is a mathematical tool for finding the optimal algorithm of a problem,
 often employed in the realms of computer science.
@@ -53,7 +52,7 @@ and uses them if the calculations are needed again. Due to the fact that memory 
 and thus, needs to be used appropriately and sparingly, especially when it comes to large applications. Tail recursion [3], a variant of
 traditional recursion implements memorisation, which uses memorisation very economically.
 
-###Fibonacci: An elementary use of Dynamic Programming
+### Fibonacci: An elementary use of Dynamic Programming
 One of the simplest problems that can be optimised with a Dynamic Programming approach is the Fibonacci number. 
 The Fibonacci number (also known as the Fibonacci sequence) is a series of numbers where the leading number is the 
 sum of the previous two numbers (modern interpretation) [4].
@@ -115,18 +114,18 @@ look at previous solutions to eliminate possible, inferior (less generated reven
 This is where dynamic programming can come into use. We can employ it to develop a solution that will take into consideration
 the available funds as well as previously tested solutions. 
 
-###Solution Design
+### Solution Design
 A solution was developed using dynamic programming to approach this problem, written in C++.
 
-####Proposals
+#### Proposals
 Proposals contain three integers, an index (their position in the plant), as well as their cost, and revenue.
 These are only set in the constructor and can be accessed but not changed.
 
-####Plant
+#### Plant
 Each plant contains a vector of proposals, which it creates when the constructor is invoked. It can return a reference
 to the vector of it’s proposals, as well as the number of proposals it contains.
 
-####Stage
+#### Stage
 This class contains the algorithm. Each state maintains a list of proposals (from the given plant), as well as a map, 
 it’s key the cost, and value the revenue it generates. The stage takes a previous stage (or null if it is the first).
 
@@ -180,3 +179,6 @@ approach to dynamic programming, and aims only to introduce the concept of dynam
 [4] "Fibonacci number", En.wikipedia.org, 2017. [Online]. Available: https://en.wikipedia.org/wiki/Fibonacci_number. [Accessed: 22- Oct- 2017].
 [5] L. Fibonacci and L. Sigler, Fibonacci's Liber abaci. New York: Springer, 2003.
 [6] M. Tick, "A Tutorial on Dynamic Programming", Mat.gsia.cmu.edu, 2017. [Online]. Available: http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html. [Accessed: 30- Oct- 2015].
+
+The source code can be found [here](https://github.com/Foxh0und/dynamicprogramming).
+
