@@ -204,12 +204,12 @@ Fibonacci, and larger problems such as economic optimisations. This report is by
 approach to dynamic programming, and aims only to introduce the concept of dynamic programming, and explain how it works on rudimentary examples.  
 
 ### References
-[1] R. Bellman, Eye of the hurricane. Singapore: World Scientific, 1984
-[2] S. Dreyfus, "A Comparison of Linear Programming and Dynamic Programming", RAND, 1956.
-[3] D. Friedman and M. Want, Essentials of Programming Languages. MIT Press, 1999.
-[4] "Fibonacci number", En.wikipedia.org, 2017. [Online]. Available: https://en.wikipedia.org/wiki/Fibonacci_number. [Accessed: 22- Oct- 2017].
-[5] L. Fibonacci and L. Sigler, Fibonacci's Liber abaci. New York: Springer, 2003.
-[6] M. Tick, "A Tutorial on Dynamic Programming", Mat.gsia.cmu.edu, 2017. [Online]. Available: http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html. [Accessed: 30- Oct- 2015].
+- [1] R. Bellman, Eye of the hurricane. Singapore: World Scientific, 1984
+- [2] S. Dreyfus, "A Comparison of Linear Programming and Dynamic Programming", RAND, 1956.
+- [3] D. Friedman and M. Want, Essentials of Programming Languages. MIT Press, 1999.
+- [4] "Fibonacci number", En.wikipedia.org, 2017. [Online]. Available: https://en.wikipedia.org/wiki/Fibonacci_number. [Accessed: 22- Oct- 2017].
+- [5] L. Fibonacci and L. Sigler, Fibonacci's Liber abaci. New York: Springer, 2003.
+- [6] M. Tick, "A Tutorial on Dynamic Programming", Mat.gsia.cmu.edu, 2017. [Online]. Available: http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html. [Accessed: 30- Oct- 2015].
 <br><br>
 
 The source code can be found [here](https://github.com/Foxh0und/dynamicprogramming).
