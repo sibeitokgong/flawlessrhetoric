@@ -33,7 +33,6 @@ and to eliminate any occurrences of overlapping sub problems.
 
 Dynamic Programming works in contrast to Linear Programming. Whilst it is concerned with functional relations and multi-stage
 decision processes, Linear Programming is a method used to achieve the best result based upon linear relationships [2].
-<br><br>
 
 ### Optimal Substructures
 When Dynamic Programming is applied, breaking up a problem and reconstructing it, we often find the optimal
@@ -207,6 +206,7 @@ approach to dynamic programming, and aims only to introduce the concept of dynam
 [4] "Fibonacci number", En.wikipedia.org, 2017. [Online]. Available: https://en.wikipedia.org/wiki/Fibonacci_number. [Accessed: 22- Oct- 2017].
 [5] L. Fibonacci and L. Sigler, Fibonacci's Liber abaci. New York: Springer, 2003.
 [6] M. Tick, "A Tutorial on Dynamic Programming", Mat.gsia.cmu.edu, 2017. [Online]. Available: http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html. [Accessed: 30- Oct- 2015].
+<br><br>
 
 The source code can be found [here](https://github.com/Foxh0und/dynamicprogramming).
 
