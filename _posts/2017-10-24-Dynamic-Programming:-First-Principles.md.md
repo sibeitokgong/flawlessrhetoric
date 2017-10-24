@@ -66,6 +66,7 @@ sum of the previous two numbers (modern interpretation) [4].
 <br><br>
 
     0,1,1,2,3,5,8,13,21,34…
+
 <br><br>
 
 It is named after Italian mathematician Leonardo of Pisa (commonly known as Fibonacci), whom described the sequence 
@@ -79,6 +80,7 @@ Fibonacci can be described as follows;
     F0 = 0
     F1 = 1
     Fn = F(n-1) + F(n-2),
+
 <br><br>
 
 For example;
@@ -88,10 +90,11 @@ For example;
     F3 = (F(1) + F(0))  + 1
     F3 = (1 + 0) + 1
     F3 = 2
+
 <br><br>
 
 This poses a problem. Computing a Fibonacci number greater than two will force overlapping sub problems.
-![fibonacci of four](https://imgur.com/a/WJ7Qt.png)
+![fibonacci of four](https://i.imgur.com/T3olAmi.png)
 
 The figure above Figure 1 represents the structure of the Fibonacci sequence of four. The Fibonacci
 number of four will compute the Fibonacci of two twice. The number of overlapping sub problems will grow
@@ -108,6 +111,7 @@ and define the Fibonacci Number of n as follows;
             Fibonacci( n, i+1, b, a+b )
           return b;
     }
+
 <br><br>
     
 This approach first checks if we have reached the desired number, if not, it computes the sequence. It will never
@@ -184,6 +188,7 @@ The map of cost to revenue, implements the memorisation aspect of the algorithm.
           cost = propsal cost + cost-1
           if Revenue[cost] < revenue
             Revenue[cost] = revenue
+
 <br><br>
            
             
@@ -197,7 +202,6 @@ Dynamic Programming is an essential tool for solving multistage problems. It hel
 problem where possible, and remove any overlapping sub problems. It is applicable for smaller problems, such as 
 Fibonacci, and larger problems such as economic optimisations. This report is by no means an extensive or advanced
 approach to dynamic programming, and aims only to introduce the concept of dynamic programming, and explain how it works on rudimentary examples.  
-<br><br>
 
 ### References
 [1] R. Bellman, Eye of the hurricane. Singapore: World Scientific, 1984
