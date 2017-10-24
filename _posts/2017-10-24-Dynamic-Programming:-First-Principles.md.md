@@ -67,6 +67,7 @@ sum of the previous two numbers (modern interpretation) [4].
 <br><br>
 
     0,1,1,2,3,5,8,13,21,34…
+<br><br>
 
 It is named after Italian mathematician Leonardo of Pisa (commonly known as Fibonacci), whom described the sequence 
 in his book Liber Abaci during 1202 AD. It had previously been described in Indian Mathematics, 
@@ -79,6 +80,7 @@ Fibonacci can be described as follows;
     F0 = 0
     F1 = 1
     Fn = F(n-1) + F(n-2),
+<br><br>
 
 For example;
 <br><br>
@@ -87,9 +89,10 @@ For example;
     F3 = (F(1) + F(0))  + 1
     F3 = (1 + 0) + 1
     F3 = 2
+<br><br>
 
 This poses a problem. Computing a Fibonacci number greater than two will force overlapping sub problems.
-![fibonacci of four](https://imgur.com/a/WJ7Qt)
+![fibonacci of four](https://imgur.com/a/WJ7Qt.png)
 
 The figure above Figure 1 represents the structure of the Fibonacci sequence of four. The Fibonacci
 number of four will compute the Fibonacci of two twice. The number of overlapping sub problems will grow
@@ -106,6 +109,7 @@ and define the Fibonacci Number of n as follows;
             Fibonacci( n, i+1, b, a+b )
           return b;
     }
+<br><br>
     
 This approach first checks if we have reached the desired number, if not, it computes the sequence. It will never
 call a number that has already been calculated, and will instead use memorisation and pass the previous
@@ -181,7 +185,8 @@ The map of cost to revenue, implements the memorisation aspect of the algorithm.
           cost = propsal cost + cost-1
           if Revenue[cost] < revenue
             Revenue[cost] = revenue
-            
+<br><br>
+           
             
 Whilst solvable, Tick makes several assumptions. Firstly, his solution assumes that each plant will have a 
 proposal enacted upon, and secondly, that we use all the funds with the remainder not included in the revenue
