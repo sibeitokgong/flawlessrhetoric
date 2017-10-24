@@ -96,7 +96,7 @@ For example;
 This poses a problem. Computing a Fibonacci number greater than two will force overlapping sub problems.
 ![fibonacci of four](https://i.imgur.com/T3olAmi.png)
 
-The figure above Figure 1 represents the structure of the Fibonacci sequence of four. The Fibonacci
+The figure above represents the structure of the Fibonacci sequence of four. The Fibonacci
 number of four will compute the Fibonacci of two twice. The number of overlapping sub problems will grow
 exponentially as the Fibonacci number is increased, and thus the running time to compute it.
 <br><br>
