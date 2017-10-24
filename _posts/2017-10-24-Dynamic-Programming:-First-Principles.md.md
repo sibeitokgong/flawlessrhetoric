@@ -97,7 +97,7 @@ This approach first checks if we have reached the desired number, if not, it com
 call a number that has already been calculated, and will instead use memorisation and pass the previous
 (to the current number we are at) two values to the function to calculate them.  
 
-###Economic Optimisation: A Canonical example of dynamic programming.
+### Economic Optimisation: A Canonical example of dynamic programming.
 Various economic problems, especially around stage based decision making can be solved through the
 use of dynamic programming.
 
