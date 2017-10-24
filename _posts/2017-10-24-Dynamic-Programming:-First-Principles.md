@@ -201,7 +201,7 @@ created in the end.
 Dynamic Programming is an essential tool for solving multistage problems. It helps find the optimal substructure of a 
 problem where possible, and remove any overlapping sub problems. It is applicable for smaller problems, such as 
 Fibonacci, and larger problems such as economic optimisations. This report is by no means an extensive or advanced
-approach to dynamic programming, and aims only to introduce the concept of dynamic programming, and explain how it works on rudimentary examples.  
+approach to dynamic programming, and aims only to introduce the concept of dynamic programming, and explain how it works on a rudimentary example.  
 
 ### References
 - [1] R. Bellman, Eye of the hurricane. Singapore: World Scientific, 1984
